@@ -1,4 +1,4 @@
-# Flash
+# Flash Story
 Minimal-E (Palo Alto, CA) has launched a revolutionary online platform that will allow facility managers, utility companies, city commissions, and building automation systems to implement better energy saving plans and storage systems for commercial buildings with minimal data. Such forecastings have been a challenge due to lack of extensive historical data, but Minimal-E’s revolutionary machine-learning based platform seeks to solve that. 
 
 
